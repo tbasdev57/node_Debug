@@ -5,13 +5,13 @@ multi critères pour retrouver le plus simplement possible.
 
 ## Pour installer le programme
 
-- Lancer `git clone https://github.com/jujuck/JS_Node_Debug.git`.
+- Lancer \`git clone https://github.com/tbasdev57/node_Debug.git\`.
 - Ouvrir le projet avec ton IDE préféré.
 - Ouvrir un terminal.
 
 ## Pour lancer le programme
 
-- Lancer `npm run start`.
+- Lancer \`npm run start\`.
 
 > Warning
 > Cette version est en mode bêta.
@@ -22,4 +22,4 @@ multi critères pour retrouver le plus simplement possible.
 - Correction des erreurs dans l'import de données.
 - Prise en compte de la casse pour les professions.
 - Erreur dans le nommage des fonctions.
-
+EOL
