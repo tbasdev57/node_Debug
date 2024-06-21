@@ -5,7 +5,7 @@ multi critères pour retrouver le plus simplement possible.
 
 ## Pour installer le programme
 
-- Lancer \`git clone https://github.com/tbasdev57/node_Debug.git\`.
+- Lancer \`https://github.com/tbasdev57/node_Debug\`.
 - Ouvrir le projet avec ton IDE préféré.
 - Ouvrir un terminal.
 
